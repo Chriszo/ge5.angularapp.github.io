@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1556099244678,
+  "timestamp": 1556101205660,
   "index": "ge5-insta-example/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "ge5-insta-example/favicon.ico",
         "ge5-insta-example/index.html",
-        "ge5-insta-example/main.947a7ea27323cbc41ffd.js",
+        "ge5-insta-example/main.da41ec5e58668d034ef7.js",
         "ge5-insta-example/polyfills.bebee6a5ef0ece001bc6.js",
         "ge5-insta-example/runtime.26209474bfa8dc87a77c.js",
         "ge5-insta-example/styles.bb5dcef8ad1a4f627347.css"
@@ -47,8 +47,8 @@
     "ge5-insta-example/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "ge5-insta-example/assets/icons/images.png": "e48d7286f4473f9e96f208b963007e3fe9702e00",
     "ge5-insta-example/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "ge5-insta-example/index.html": "e8e8b6aaadbda33aa2963686a4fec942f8b05dd2",
-    "ge5-insta-example/main.947a7ea27323cbc41ffd.js": "ea64091551bdfdec002b2e65a0abc9ec7866b977",
+    "ge5-insta-example/index.html": "81f2a5d6eaed8b9b4f539307aa31078184bf0fe3",
+    "ge5-insta-example/main.da41ec5e58668d034ef7.js": "4c71925d0e10c9c90376d2c6e96f524b46f09692",
     "ge5-insta-example/polyfills.bebee6a5ef0ece001bc6.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "ge5-insta-example/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "ge5-insta-example/styles.bb5dcef8ad1a4f627347.css": "507c7ef0b7e4174d447e31b2423526c141cd907f"
